@@ -20,3 +20,5 @@ drwxr-xr-x  2 riandani.gita StafCS 4096 Feb 15 17:58 week09
 drwxr-xr-x  2 riandani.gita StafCS 4096 Feb 15 17:58 week10
 drwxr-xr-x  2 riandani.gita StafCS 4096 Feb 15 17:59 xtra
 /home/fasilkom/mahasiswa/r/riandani.gita/os171/week01
+Today is 16 Feb 2017 at 00:29:20
+Today is 16 Feb 2017 at 00:29:47
