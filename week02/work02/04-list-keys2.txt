@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/r/riandani.gita/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/F6B02748 2017-02-25 [expires: 2017-08-24]
+uid                  Riandani Gita Larasati ("Keep Calm, OS makes me feel ...!") <riandani.gita@ui.ac.id>
+sub   4096R/C7C4042A 2017-02-25 [expires: 2017-08-24]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
