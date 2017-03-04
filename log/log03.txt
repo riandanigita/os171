@@ -1,0 +1,3 @@
+w03-170228-19:00-LR-Quis in class
+w03-170228-20:00-PS-Install and setup Linux Debian in lab
+w03-170304-12:00-PS-Finishing homework
