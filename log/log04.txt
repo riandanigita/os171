@@ -1,0 +1,3 @@
+w04-170307-19:00-LR-About: Listening to lecture
+w04-170307-20:00-PS-About: Lab class
+w04-170311-11:00-PS-About: Doing Homework
