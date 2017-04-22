@@ -1,0 +1,3 @@
+w07-170418-19:00-LR-About: Listening to lecture about Synchronization in Lab
+w07-170421-23:00-PS-About: Doing homework
+w07-170422-11:00-PS-About: Finishing homework
