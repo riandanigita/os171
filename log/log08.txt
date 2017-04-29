@@ -1,0 +1,3 @@
+w08-250418-19:00-LR-About: Listening to lecture about Scheduling
+w08-280421-23:00-PS-About: Doing homework
+w08-290422-11:00-PS-About: Finishing homework
