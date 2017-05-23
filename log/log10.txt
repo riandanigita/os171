@@ -1,2 +1,4 @@
 w10-170520-00:00-PS-About: Finishing homework (ULASAN 2)
 w10-170520-00:20-PS-About: Revisi homework (ULASAN 2)
+w10-170523-07:00-PS-About: Finishing RANKING Paket Ganjil (00,01,03,05,07,09)
+
